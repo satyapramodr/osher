@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/osher/static/css/main.a1d14132.chunk.css",
+    "main.js": "/osher/static/js/main.7c532e44.chunk.js",
+    "main.js.map": "/osher/static/js/main.7c532e44.chunk.js.map",
+    "runtime-main.js": "/osher/static/js/runtime-main.60f50dad.js",
+    "runtime-main.js.map": "/osher/static/js/runtime-main.60f50dad.js.map",
+    "static/js/2.c5724fb2.chunk.js": "/osher/static/js/2.c5724fb2.chunk.js",
+    "static/js/2.c5724fb2.chunk.js.map": "/osher/static/js/2.c5724fb2.chunk.js.map",
+    "index.html": "/osher/index.html",
+    "static/css/main.a1d14132.chunk.css.map": "/osher/static/css/main.a1d14132.chunk.css.map",
+    "static/js/2.c5724fb2.chunk.js.LICENSE.txt": "/osher/static/js/2.c5724fb2.chunk.js.LICENSE.txt",
+    "static/media/blog01.cefc0932.png": "/osher/static/media/blog01.cefc0932.png",
+    "static/media/blog02.ab0eb367.png": "/osher/static/media/blog02.ab0eb367.png",
+    "static/media/blog03.d9223238.png": "/osher/static/media/blog03.d9223238.png",
+    "static/media/blog04.742c1357.png": "/osher/static/media/blog04.742c1357.png",
+    "static/media/blog05.bfaa1c1e.png": "/osher/static/media/blog05.bfaa1c1e.png",
+    "static/media/possibility.525f13b6.png": "/osher/static/media/possibility.525f13b6.png",
+    "static/media/video.fc17f85f.mp4": "/osher/static/media/video.fc17f85f.mp4"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.60f50dad.js",
+    "static/js/2.c5724fb2.chunk.js",
+    "static/css/main.a1d14132.chunk.css",
+    "static/js/main.7c532e44.chunk.js"
+  ]
+}
