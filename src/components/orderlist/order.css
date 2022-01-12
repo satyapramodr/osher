@@ -43,15 +43,15 @@
     /* line-height: 30.30px; */
     
     color: #fff;
-    margin-bottom: 3rem;
+    /* margin-bottom: 3rem; */
     cursor: pointer;
 }
 
 .gpt3__blog-container_article-content h3 {
     font-family: var(--font-family);
-    font-size: 25.11px;
+    font-size: 20px;
     font-weight: 800;
-    line-height: 30.30px;
+    /* line-height: 30.30px; */
     
     color: #fff;
     /* margin-bottom: 5rem; */
