@@ -1,27 +1,34 @@
 {
   "files": {
-    "main.css": "/osher/static/css/main.7433bc5d.chunk.css",
-    "main.js": "/osher/static/js/main.99125c48.chunk.js",
-    "main.js.map": "/osher/static/js/main.99125c48.chunk.js.map",
+    "main.css": "/osher/static/css/main.c2c2ee1a.chunk.css",
+    "main.js": "/osher/static/js/main.8b2f92b5.chunk.js",
+    "main.js.map": "/osher/static/js/main.8b2f92b5.chunk.js.map",
     "runtime-main.js": "/osher/static/js/runtime-main.60f50dad.js",
     "runtime-main.js.map": "/osher/static/js/runtime-main.60f50dad.js.map",
     "static/js/2.f1a99744.chunk.js": "/osher/static/js/2.f1a99744.chunk.js",
     "static/js/2.f1a99744.chunk.js.map": "/osher/static/js/2.f1a99744.chunk.js.map",
     "index.html": "/osher/index.html",
-    "static/css/main.7433bc5d.chunk.css.map": "/osher/static/css/main.7433bc5d.chunk.css.map",
+    "static/css/main.c2c2ee1a.chunk.css.map": "/osher/static/css/main.c2c2ee1a.chunk.css.map",
     "static/js/2.f1a99744.chunk.js.LICENSE.txt": "/osher/static/js/2.f1a99744.chunk.js.LICENSE.txt",
     "static/media/blog01.cefc0932.png": "/osher/static/media/blog01.cefc0932.png",
     "static/media/blog02.ab0eb367.png": "/osher/static/media/blog02.ab0eb367.png",
     "static/media/blog03.d9223238.png": "/osher/static/media/blog03.d9223238.png",
     "static/media/blog04.742c1357.png": "/osher/static/media/blog04.742c1357.png",
     "static/media/blog05.bfaa1c1e.png": "/osher/static/media/blog05.bfaa1c1e.png",
+    "static/media/blog06.10e8de12.png": "/osher/static/media/blog06.10e8de12.png",
+    "static/media/blog07.5b0683d7.png": "/osher/static/media/blog07.5b0683d7.png",
+    "static/media/blog08.d3f15998.png": "/osher/static/media/blog08.d3f15998.png",
+    "static/media/blog09.3062e527.png": "/osher/static/media/blog09.3062e527.png",
+    "static/media/blog10.dc978302.png": "/osher/static/media/blog10.dc978302.png",
+    "static/media/blog11.0a9f2950.png": "/osher/static/media/blog11.0a9f2950.png",
+    "static/media/java1.62955997.jpg": "/osher/static/media/java1.62955997.jpg",
     "static/media/nextgen-video.473387a1.mp4": "/osher/static/media/nextgen-video.473387a1.mp4",
     "static/media/possibility.525f13b6.png": "/osher/static/media/possibility.525f13b6.png"
   },
   "entrypoints": [
     "static/js/runtime-main.60f50dad.js",
     "static/js/2.f1a99744.chunk.js",
-    "static/css/main.7433bc5d.chunk.css",
-    "static/js/main.99125c48.chunk.js"
+    "static/css/main.c2c2ee1a.chunk.css",
+    "static/js/main.8b2f92b5.chunk.js"
   ]
 }
