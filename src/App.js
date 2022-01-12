@@ -1,6 +1,6 @@
 import React from 'react';
-
-import { Footer, Features, Blog, Header } from './containers';
+import { BrowserRouter as Router, Switch, Route } from 'react-router-dom';
+import { Footer, Features, Blog, Header, Possibility, Contact } from './containers';
 import { CTA, Brand, Navbar } from './components';
 
 import './App.css';
@@ -13,9 +13,10 @@ const App = () => (
     </div>
     <Brand />
     <Features />
-    {/* <Possibility /> */}
+    <Possibility />
     <CTA />
     <Blog />
+    <Contact />
     <Footer />
   </div>
 );
